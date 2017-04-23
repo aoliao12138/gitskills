@@ -1,3 +1,3 @@
 # gitskills
-# create a branch called master & feature1
+# create a branch called dev
 
